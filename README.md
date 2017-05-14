@@ -1,3 +1,3 @@
 # Amazing
 
-A terminal maze generator
+a terminal maze generator
